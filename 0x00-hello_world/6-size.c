@@ -2,7 +2,7 @@
 
 /**
  * main- prints the size of various types
- * on the computer rit is compiled on.
+ * on the computer it is compiled on.
  * Return: 0 if properly exited
  */
 int main(void)
